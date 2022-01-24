@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
 
 def TwoSum(lst,n,target):
     for i in range(len(n)):
